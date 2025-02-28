@@ -77,4 +77,4 @@ A próxima etapa do projeto consiste na implementação do **modelo lógico**, c
 ### **📢 Quer Contribuir?**  
 Se você quiser contribuir com melhorias para o projeto, sinta-se à vontade para abrir um Pull Request! 💡  
 
-📌 **Desenvolvido com ❤️ por [BrckyLabhar]**  
+📌 **Desenvolvido com ❤️ por [BeckyLabhar]**  
